@@ -12,7 +12,7 @@ jobs:
       matrix:
         kmi:
           - android15-6.6
-            - android14-6.1
+          - android14-6.1
           - android16-6.12
           - android17-6.18
     container:
